@@ -12,7 +12,7 @@
 
 print("=============================")
 print(" Selamat Datang ! \n Silahkan memilih barang yang Anda beli : ")
-print("1. Album \n 2. Merchandise \n 3.Album+Merchandise \n ")
+print(" 1.Album \n 2.Merchandise \n 3.Album+Merchandise")
 
 albm=int(input("Masukkan pilihan anda: "))
 if albm==1:
